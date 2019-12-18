@@ -8,8 +8,8 @@ date:
   format: j F Y
   timezone: Europe/Paris
 pagination:
-  max: 1
-  path: url
+  max: 3
+  path: 'https://javifood.netlify.com/'
 output:
   formats:
     netlify_redirects:
