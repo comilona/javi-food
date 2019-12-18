@@ -10,7 +10,7 @@ Si te gusta comer sin cubiertos y el picante es el mejor aderezo para tus almuer
 
 ![](/images/burritos.jpg)
 
-Toma nota de todas las recomendaciones que hoy te traemos para disfrutar de la comida mexicana en todo su esplendor
+Toma nota de todas las recomendaciones que hoy te traemos para disfrutar de la comida mexicana en todo su esplendor:
 
 ## Salón Cascabel
 
