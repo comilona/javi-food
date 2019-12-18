@@ -1,7 +1,7 @@
 ---
-title: About
-date: 2019-07-09
+title: Sobre mí
 menu: main
+draft: true
 ---
 > A ready to use static blog, powered by [Cecil](https://cecil.app).
 
